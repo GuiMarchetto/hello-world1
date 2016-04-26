@@ -1,2 +1,3 @@
 # hello-world1
 A simple hello-world project for learning github
+Hear about github in a lecture. I don't know how many "Hello World" projecta I already made in my life...
